@@ -17,7 +17,7 @@ const Header = () => {
             </div>
             <div id="header-text">Web Design & Development</div>
             <div id="my-name">John Kearton-Jones</div> 
-            <a className="menu"  onClick={()=>setContact(!contact)}>Contact me</a>
+            <button className="menu"  onClick={()=>setContact(!contact)}>Contact me now</button>
             {contact && <PopoutContact />}
         </div>
     );
