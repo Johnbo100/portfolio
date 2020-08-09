@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.1b642426.chunk.css",
+    "main.js": "/portfolio/static/js/main.d37e9e8b.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d37e9e8b.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/js/2.5473536e.chunk.js": "/portfolio/static/js/2.5473536e.chunk.js",
+    "static/js/2.5473536e.chunk.js.map": "/portfolio/static/js/2.5473536e.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.370309b408f932dbd609ce6928629cd7.js": "/portfolio/precache-manifest.370309b408f932dbd609ce6928629cd7.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.1b642426.chunk.css.map": "/portfolio/static/css/main.1b642426.chunk.css.map",
+    "static/js/2.5473536e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.5473536e.chunk.js.LICENSE.txt",
+    "static/media/csshtmljs.png": "/portfolio/static/media/csshtmljs.1eba9b6b.png",
+    "static/media/firebase.jpg": "/portfolio/static/media/firebase.c14435ca.jpg",
+    "static/media/headergithub.jpg": "/portfolio/static/media/headergithub.2d5d53f8.jpg",
+    "static/media/App.css": "/portfolio/static/media/kids-background-long.da45900f.jpg",
+    "static/media/laptopMWCAR.png": "/portfolio/static/media/laptopMWCAR.42a25c7d.png",
+    "static/media/laptopVLCBT.png": "/portfolio/static/media/laptopVLCBT.0510534e.png",
+    "static/media/laptopmawddach.png": "/portfolio/static/media/laptopmawddach.0040ba88.png",
+    "static/media/memory-letters.jpg": "/portfolio/static/media/memory-letters.9aa27da9.jpg",
+    "static/media/memory2.png": "/portfolio/static/media/memory2.c4bf2357.png",
+    "static/media/nodejs.png": "/portfolio/static/media/nodejs.9376002c.png",
+    "static/media/plane.mp4": "/portfolio/static/media/plane.37498376.mp4",
+    "static/media/react.png": "/portfolio/static/media/react.cd7bb6be.png",
+    "static/media/reveal.jpg": "/portfolio/static/media/reveal.ae9be404.jpg",
+    "static/media/tenor.gif": "/portfolio/static/media/tenor.2e4a097b.gif",
+    "static/media/wordpress.png": "/portfolio/static/media/wordpress.70373938.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/js/2.5473536e.chunk.js",
+    "static/css/main.1b642426.chunk.css",
+    "static/js/main.d37e9e8b.chunk.js"
+  ]
+}
